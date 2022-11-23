@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EveZonee</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email</string>
+    <string name="Phone_no">Phone_no</string>
+</resources>
