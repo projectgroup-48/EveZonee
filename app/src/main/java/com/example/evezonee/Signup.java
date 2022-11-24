@@ -22,7 +22,7 @@ public class Signup extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_signup);
-
+//
         final EditText users = findViewById(R.id.user);
         final EditText emails = findViewById(R.id.email);
         final EditText phones = findViewById(R.id.phone);
